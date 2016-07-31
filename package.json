@@ -1,0 +1,17 @@
+{
+  "name": "practicenode",
+  "version": "1.0.0",
+  "description": "Practice Node 07/30",
+  "main": "gulpFile.js",
+  "dependencies": {
+    "brightness": "^3.0.0",
+    "gulp": "^3.9.1",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandhya",
+  "license": "ISC"
+}
