@@ -1,0 +1,14 @@
+.logo {
+  padding: 10px;
+  max-width: 100px;
+}
+.header{
+  background-color: #284741;
+  color: white;
+}
+.navigation {
+  background: #808080;
+}
+.nav-pills>li>a{
+  color: white;
+}
