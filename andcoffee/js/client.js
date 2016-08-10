@@ -39,6 +39,7 @@ coffeeApp.config(function($routeProvider) {
     .otherwise({ redirectTo: '/'});
 });
 
+
 coffeeApp.run(function($rootScope, $location, $cookies) {
   // on every location change start, see where the user is attempting to go
   $rootScope.$on('$locationChangeStart', function(event, nextUrl, currentUrl) {
